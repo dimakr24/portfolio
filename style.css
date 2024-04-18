@@ -1,0 +1,19 @@
+body{
+    background-color: #00c4fa;
+}
+img {
+    text-align: center;
+    border-radius: 20px;
+}
+h1 {
+    font-family: Comic Sans MS;
+
+}
+p {
+    color: #000000;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+li {
+    color: rgb(255, 255, 255);
+}
